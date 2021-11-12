@@ -27,6 +27,7 @@
   - [LaravelにDDDを導入して1年経った所感(達成したこと / 課題点 / モデリングの難しさなど)](https://qiita.com/mejileben/items/348d70e28fdbb3a0749f)
 - [「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！](https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338)
 - [かとじゅん氏のSpeaker Deck](https://speakerdeck.com/j5ik2o/)
+- [ユビキタス言語策定したらビジネス理解がめっちゃ捗った話](https://zenn.dev/leaner_tech/articles/20210922-ubiquitous-language)
 - [ミノ駆動氏のQiita](https://qiita.com/MinoDriven)
   - [設計要件をギッチギチに詰めたValueObjectで低凝集クラスを爆殺する](https://qiita.com/MinoDriven/items/5e69d9bd028aa350e2c4)
   - [関心の分離を意識した名前設計で巨大クラスを爆殺する](https://qiita.com/MinoDriven/items/37599172b2cd27c38a33)
@@ -105,6 +106,7 @@ DDDとクリーンアーキテクチャは別物という認識です。
 記事・スライド
 
 - [ビジネス考えてるかい？事業の持続的成長を促進させるシステム設計の考え方](https://speakerdeck.com/minodriven/buisiness-purpose-system-design)
+- [IT事業は「サービス」と「ソフトウェア」に分類でき、その分類によってDDDを適用すべきかが決まるのでは、という考察](https://zenn.dev/meijin/articles/5cb73354486ec0eb54b3)
 
 ## マイクロサービス
 
