@@ -24,6 +24,7 @@
   - [DDDを把握する](https://qiita.com/sonken625/items/80c0d86d507dedcc654b#dddを把握する)
 - [scala-on-ddd](https://speakerdeck.com/crossroad0201/scala-on-ddd?slide=69)
 - [Laravelでドメイン駆動設計(DDD)を実践し、Eloquent Model依存の設計から脱却する](https://qiita.com/mejileben/items/302a9f502ca0801b1efb)
+  - [LaravelにDDDを導入して1年経った所感(達成したこと / 課題点 / モデリングの難しさなど)](https://qiita.com/mejileben/items/348d70e28fdbb3a0749f)
 - [「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！](https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338)
 - [かとじゅん氏のSpeaker Deck](https://speakerdeck.com/j5ik2o/)
 - [ミノ駆動氏のQiita](https://qiita.com/MinoDriven)
@@ -32,13 +33,18 @@
   - [ドメイン駆動設計 本格入門](https://www.slideshare.net/masuda220/ss-137608652)
   - [オブジェクト指向プログラミングのためのモデリング入門](https://www.slideshare.net/masuda220/ss-68667449)
   - [ドメイン駆動設計のためのオブジェクト指向入門](https://www.slideshare.net/masuda220/ss-57352072)
+- [かとじゅんの技術日誌](https://blog.j5ik2o.me/)
 - [little hands' lab ドメイン駆動設計を布教したい](https://little-hands.hatenablog.com/)
+  - [DDD質問箱](https://peing.net/ja/little_hands)
+  - [little-hands/ddd-q-and-a](https://github.com/little-hands/ddd-q-and-a)
 - [ひろどらチャンネル](https://www.youtube.com/channel/UCUtQx4Gkpuy41wzyGjsHOwg)
   - [ぶっつけ本番でモデリングしてみる配信](https://www.youtube.com/watch?v=vEPS6QfPLII)
   - [【初めてゲストが来たよ】勝手にDDD #4 【かとじゅんさん】](https://www.youtube.com/watch?v=BBQzlIhz2N0&t=7062s)
 - [集約の実装について考えてみた](https://zenn.dev/takashi_onawa/articles/4648332c035d97)
 - [集約の境界と整合性の維持の仕方に悩んで2ヶ月ぐらい結論を出せていない話](https://kbigwheel.hateblo.jp/entry/2018/12/03/aggregate-and-consistency)
 - [ドメインもしくはドメインモデルという概念が登場する書籍一覧](https://zenn.dev/j5ik2o/articles/333f92ab5db8eb24035f)
+- [CQRS/Event Sourcingを学ぶための教材(2020年版)](https://zenn.dev/j5ik2o/articles/d9ab33e4da4408925bb6)
+- [Martin Fowler's Bliki (ja)](https://bliki-ja.github.io/)
 
 以下、筆者の独断で段階別に書籍を羅列させて頂きました。
 
