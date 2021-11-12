@@ -28,6 +28,8 @@
 - [「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！](https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338)
 - [かとじゅん氏のSpeaker Deck](https://speakerdeck.com/j5ik2o/)
 - [ミノ駆動氏のQiita](https://qiita.com/MinoDriven)
+  - [設計要件をギッチギチに詰めたValueObjectで低凝集クラスを爆殺する](https://qiita.com/MinoDriven/items/5e69d9bd028aa350e2c4)
+  - [関心の分離を意識した名前設計で巨大クラスを爆殺する](https://qiita.com/MinoDriven/items/37599172b2cd27c38a33)
 - [広木 大地氏のQiita](https://qiita.com/hirokidaichi)
 - [増田 亨氏のslideshare](https://www.slideshare.net/masuda220)
   - [ドメイン駆動設計 本格入門](https://www.slideshare.net/masuda220/ss-137608652)
