@@ -137,9 +137,11 @@ DDDとクリーンアーキテクチャは別物という認識です。
 
 記事・スライド
 
-- [Joel on Joel on Software 日本語訳 InternetArchive WayBackMachine](https://zero-plus-one.jp/program-general/joelonsoftware-jp-index-archive/)
+- [Joel on Software 日本語訳インデックス InternetArchive WayBackMachine](https://zero-plus-one.jp/program-general/joelonsoftware-jp-index-archive/)
 
 - [MyMy-MyCompany](http://www.marenijr.net/mymy/)
+
+- [まさーるのページ](http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/)
 
   
 
