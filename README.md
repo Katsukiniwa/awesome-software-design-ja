@@ -28,6 +28,9 @@
   - [LaravelにDDDを導入して1年経った所感(達成したこと / 課題点 / モデリングの難しさなど)](https://qiita.com/mejileben/items/348d70e28fdbb3a0749f)
 - [「実践ドメイン駆動設計」を読んだので、実際にDDDで設計して作ってみた！](https://qiita.com/APPLE4869/items/d210ddc2cb1bfeea9338)
 - [かとじゅん氏のSpeaker Deck](https://speakerdeck.com/j5ik2o/)
+- [Takuto Wada氏のSpeaker Deck](https://speakerdeck.com/twada)
+  - [質とスピード（2020秋100分拡大版） / Quality and Speed 2020 Autumn Edition](https://speakerdeck.com/twada/quality-and-speed-2020-autumn-edition)
+- [t-wadaのブログ](https://t-wada.hatenablog.jp/)
 - [ユビキタス言語策定したらビジネス理解がめっちゃ捗った話](https://zenn.dev/leaner_tech/articles/20210922-ubiquitous-language)
 - [ミノ駆動氏のQiita](https://qiita.com/MinoDriven)
   - [設計要件をギッチギチに詰めたValueObjectで低凝集クラスを爆殺する](https://qiita.com/MinoDriven/items/5e69d9bd028aa350e2c4)
@@ -101,6 +104,7 @@ DDDとクリーンアーキテクチャは別物という認識です。
 ## システム設計
 
 - [現場で役立つシステム設計の原則 〜変更を楽で安全にするオブジェクト指向の実践技法](https://gihyo.jp/book/2017/978-4-7741-9087-7)
+- [良いコードとは何か - エンジニア新卒研修 スライド公開](https://note.com/cyberz_cto/n/n26f535d6c575)
 - [ライティングソフトウェア](https://www.shoeisha.co.jp/book/detail/9784798166834)
 - [セキュア・バイ・デザイン](https://book.mynavi.jp/ec/products/detail/id=124056)
 
@@ -114,3 +118,13 @@ DDDとクリーンアーキテクチャは別物という認識です。
 - [モノリスからマイクロサービスへ ――モノリスを進化させる実践移行ガイド](https://www.oreilly.co.jp/books/9784873119311/)
 - [マイクロサービスパターン 実践的システムデザインのためのコード解説](https://book.impress.co.jp/books/1118101063)
 - [データ指向アプリケーションデザイン ――信頼性、拡張性、保守性の高い分散システム設計の原理](https://www.oreilly.co.jp/books/9784873118703/)
+
+## テスト
+
+- [テスト駆動開発](https://shop.ohmsha.co.jp/shopdetail/000000004967/)
+- [実践テスト駆動開発 テストに導かれてオブジェクト指向ソフトウェアを育てる](https://www.shoeisha.co.jp/book/detail/9784798124582)
+
+記事・スライド
+
+- [動作するきれいなコード: SeleniumConf Tokyo 2019 基調講演文字起こし+α](https://t-wada.hatenablog.jp/entry/clean-code-that-works)
+- [優れたテスト容易性を実現するためのポイント](https://www.praha-inc.com/lab/posts/testability)
