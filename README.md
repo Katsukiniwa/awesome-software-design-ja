@@ -13,6 +13,7 @@
 記事・スライド
 
 - [オブジェクト指向できていますか？](https://www.slideshare.net/MoriharuOhzu/ss-14083300)
+- [オブジェクト指向のその前に-凝集度と結合度/Coheision-Coupling](https://speakerdeck.com/sonatard/coheision-coupling)
 
 ## DDD
 
