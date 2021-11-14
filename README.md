@@ -112,6 +112,9 @@ DDDとクリーンアーキテクチャは別物という認識です。
 
 - [ビジネス考えてるかい？事業の持続的成長を促進させるシステム設計の考え方](https://speakerdeck.com/minodriven/buisiness-purpose-system-design)
 - [IT事業は「サービス」と「ソフトウェア」に分類でき、その分類によってDDDを適用すべきかが決まるのでは、という考察](https://zenn.dev/meijin/articles/5cb73354486ec0eb54b3)
+- [テックリードになって気をつけていること](https://qiita.com/ma91n/items/207f32db1b51754d6933)
+- [大規模Webアプリケーションにおける複雑性とアーキテクチャ設計に関する一考察](https://qiita.com/tmknom/items/be5c4b350f561991f2f5)
+  - [Webアプリケーションフレームワーク導入時に考慮すべき22の観点](https://qiita.com/tmknom/items/08b69594e32a92bccee5)
 
 ## マイクロサービス
 
