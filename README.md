@@ -52,6 +52,7 @@
 - [ドメインもしくはドメインモデルという概念が登場する書籍一覧](https://zenn.dev/j5ik2o/articles/333f92ab5db8eb24035f)
 - [CQRS/Event Sourcingを学ぶための教材(2020年版)](https://zenn.dev/j5ik2o/articles/d9ab33e4da4408925bb6)
 - [Martin Fowler's Bliki (ja)](https://bliki-ja.github.io/)
+- [Domain-Driven Design reference](https://www.domainlanguage.com/wp-content/uploads/2016/05/DDD_Reference_2015-03.pdf)
 
 以下、筆者の独断で段階別に書籍を羅列させて頂きました。
 
