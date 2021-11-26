@@ -131,3 +131,21 @@ DDDとクリーンアーキテクチャは別物という認識です。
 
 - [動作するきれいなコード: SeleniumConf Tokyo 2019 基調講演文字起こし+α](https://t-wada.hatenablog.jp/entry/clean-code-that-works)
 - [優れたテスト容易性を実現するためのポイント](https://www.praha-inc.com/lab/posts/testability)
+
+
+
+## 技術コラム／エッセイ
+
+ソフトウェアエンジニアによる、ソフトウェア開発に関するコラムやエッセイです。
+
+記事・スライド
+
+- [Joel on Software 日本語訳インデックス InternetArchive WayBackMachine](https://zero-plus-one.jp/program-general/joelonsoftware-jp-index-archive/)
+
+- [MyMy-MyCompany](http://www.marenijr.net/mymy/)
+
+- [まさーるのページ](http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/)
+
+  
+
+  
