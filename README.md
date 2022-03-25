@@ -82,6 +82,7 @@
 - [混在したモデリングパラダイムの中で学ぶ重要なこと](https://qiita.com/j5ik2o/items/7ee00cfb22154efbab55)
 - [ドメインオブジェクトの責務について](https://qiita.com/j5ik2o/items/a64007c6d7a89ec2e086)
 - [TM（T字形ER）によるモデリング](https://www.sea.jp/Events/symposium/ss2009/contents/07-Modeling/ss2009-modeling-slide-tokimoto.pdf)
+- [RDBのデータモデリング・テーブル設計の際に参考にしている考え方と資料](https://zenn.dev/rebi/articles/28c7f1fee5730a)
 
 ## クリーンアーキテクチャ
 
@@ -134,19 +135,16 @@ DDDとクリーンアーキテクチャは別物という認識です。
 - [優れたテスト容易性を実現するためのポイント](https://www.praha-inc.com/lab/posts/testability)
 
 
-
 ## 技術コラム／エッセイ
 
 ソフトウェアエンジニアによる、ソフトウェア開発に関するコラムやエッセイです。
 
 記事・スライド
 
+- [良いコードとは何か - エンジニア新卒研修 スライド公開](https://note.com/cyberz_cto/n/n26f535d6c575)
+
 - [Joel on Software 日本語訳インデックス InternetArchive WayBackMachine](https://zero-plus-one.jp/program-general/joelonsoftware-jp-index-archive/)
 
 - [MyMy-MyCompany](http://www.marenijr.net/mymy/)
 
 - [まさーるのページ](http://objectclub.jp/community/memorial/homepage3.nifty.com/masarl/)
-
-  
-
-  
